@@ -1,0 +1,146 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+	font-family: "Tahoma";
+	font-size: 16px;
+	background-image: url(png/body.jpg);
+    background-repeat: repeat-x;
+}
+
+.clear {
+  clear: both;
+}
+
+.kapsayici {
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.kapsayici .header {
+	margin-top: 60px;
+}
+
+.kapsayici .header img{
+	float: left;
+} 
+
+.kapsayici .header .contact {
+	float: right;
+}
+
+.kapsayici .header .contact ul li {
+	font-size: 12px;
+	display: inline-block;
+}
+
+.kapsayici .header .contact ul li:last-child {
+	font-weight: bold;
+}
+
+#bayrak {
+	float: right;
+	margin-top: 20px;
+}
+
+.kapsayici .navbar {
+	margin-top: 20px;
+}
+
+.kapsayici .navbar ul {
+	border: 1px solid black;
+	padding-top: 11px;
+	padding-bottom: 11px;
+}
+
+.kapsayici .navbar ul li {
+	display: inline-block;
+} 
+
+.kapsayici .navbar ul li a {
+	border-left: 1px solid black;
+	text-decoration: none;
+	color: black;
+	padding:10px;
+}
+
+.kapsayici .navbar ul li:first-child a{
+	border-left: none;
+}
+
+.kapsayici .content {
+	margin-top: 20px;
+}
+
+.kapsayici .content img {
+	border: 1px solid black;
+}
+
+.kapsayici .content p {
+	margin-top: 20px;
+	text-align: center;
+	font-weight: medium;
+}
+
+.kapsayici .footer {
+	margin-top: 20px;
+} 
+
+.kapsayici .footer .box {
+	margin-left: 20px;
+	float: left;
+	width: 300px;
+}
+
+.kapsayici .footer .box:first-child {
+	margin-left: 0;
+}
+
+.kapsayici .footer .box ul li {
+	display: inline-block;
+}
+
+.kapsayici .footer .box h3 {
+	display: inline-block;
+	float: right;
+	line-height: 36px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.kapsayici .footer .box p {
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
